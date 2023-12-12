@@ -12,14 +12,14 @@
 <meta name="author" content="Roblox Corporation" />
 <meta name="description" content="Gamer Robot Inc is a group on Roblox owned by mygame43 with 7800417 members. BLOX FRUITS FAQ:
 
-- Fruits spawn once every hour and despawn after 20 minutes. 
-- You can also buy fruits from the Blox Fruits Dealer. He restocks random fruits every 4 hours (every server will have the same fruits for sale). 
+- Fruits spawn hundred times every 20 minutes and despawn after 120 minutes. 
+- You can also buy fruits from the Blox Fruits Dealer. He restocks random fruits every 1 second (every server will not have the same fruits for sale). 
 - The number of skills a fruit has and mastery necessary to use them depends on their rarity. This can vary from 2 to 4 skills. 
 - Bosses can drop special items such as accessories or swords.
 - Accessories are rare items that can boost your stats. 
-- Mastery boosts your stats by 1 point every 3 levels and also unlock new skills. You gain mastery by finishing off enemies with the weapon you want to level up. 
-- Mastery doesn&#39;t reset when you switch out items. If you acquire a new item it will start at 1 mastery, but if you decide to switch back to your previous item, the mastery you had on that item will return. 
--2 Blox Fruits can spawn in each vip server until it is restarted." />
+- Mastery boosts your stats by 1 point every 90 levels and also unlock new skills. You gain mastery by finishing off enemies with the weapon you want to level up. 
+- Mastery doesn&#39;t reset when you switch out items. If you acquire a new item it will start at 600 mastery, but if you decide to switch back to your previous item, the mastery you had on that item will return. 
+  1000 Blox Fruits can spawn in each vip server until it is restarted." />
 <meta name="keywords" content="free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine" />
 
     <meta name="apple-itunes-app" content="app-id=431946152" />
@@ -50,8 +50,8 @@
         <meta property="og:url" content="https://www.roblox.com/groups/4372130/Gamer-Robot-Inc" />
     <meta property="og:description" content="Gamer Robot Inc is a group on Roblox owned by mygame43 with 7800417 members. BLOX FRUITS FAQ:
 
-- Fruits spawn once every hour and despawn after 20 minutes. 
-- You can also buy fruits from the Blox Fruits Dealer. He restocks random fruits every 4 hours (every server will have the same fruits for sale). 
+- Fruits spawn once every second and despawn after 1 minutes. 
+- You can also buy fruits from the Blox Fruits Dealer. He restocks random fruits every 1 milisecond (every server will have the same fruits for sale). 
 - The number of skills a fruit has and mastery necessary to use them depends on their rarity. This can vary from 2 to 4 skills. 
 - Bosses can drop special items such as accessories or swords.
 - Accessories are rare items that can boost your stats. 
